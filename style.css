@@ -63,7 +63,6 @@ body {
     background-color: var(--white);
     border-radius: 1.25rem;
     overflow: hidden;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     gap: 1.75rem;
 }
 
