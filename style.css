@@ -58,7 +58,7 @@ body {
     display: flex;
     flex-direction: column;
     padding: 2.5rem 2.25rem;
-    max-width: 700px;
+    max-width: 730px;
     width: 100%;
     background-color: var(--white);
     border-radius: 1.25rem;
