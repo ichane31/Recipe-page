@@ -49,6 +49,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     padding: 2rem 1rem;
     min-height: 100vh;
 }
@@ -56,14 +57,14 @@ body {
 .recipe-container {
     display: flex;
     flex-direction: column;
-    padding: 2.25rem 2rem;
+    padding: 2.5rem 2.25rem;
     max-width: 700px;
     width: 100%;
     background-color: var(--white);
     border-radius: 1.25rem;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    gap: 2rem;
+    gap: 1.75rem;
 }
 
 img {
@@ -78,8 +79,9 @@ img {
     gap: .8rem;
 }
 
-h1, h2, h3 {
+h1, h2 {
     font-family: 'Young-Regular';
+    font-weight: 500;
     color: var(--stone-900);
 }
 

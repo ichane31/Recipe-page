@@ -31,16 +31,16 @@ Users should be able to:
 ### Screenshot
 
 Desktop
-![Desktop screenshot](./assets/screenshots/screenshot-desktop.png)
+![Desktop screenshot](./assets/images/screen_web.png)
 
 Mobile
-![Mobile screenshot](./assets/screenshots/screenshot-mobile.png)
+![Mobile screenshot](./assets/images/screen_mobile.png)
 
 ### Links
 
 
-- Solution URL: [Recipe page solution](https://www.frontendmentor.io/solutions/recipe-page-ichane31)
-- Live Site URL: [Recipe page](https://ichane31.github.io/recipe-page/)
+- Solution URL: [Recipe page solution](https://github.com/ichane31/Recipe-page)
+- Live Site URL: [Recipe page](https://recipe-page-ecru-beta.vercel.app/)
 
 ## My process
 
